@@ -1,6 +1,6 @@
-# Pre-work - Tip Calculator
+# Pre-work - EzTip
 
-Tip Calculator is a tip calculator application for iOS.
+EzTip is a tip calculator application for iOS.
 
 Submitted by: Nikunj Zamwar
 
